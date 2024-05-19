@@ -19,6 +19,7 @@ body {
     background-color: black;
     border-radius: 10px;
     padding: 5px;
+    justify-content: center;
 }
 
 .wrapper a {
@@ -29,7 +30,6 @@ body {
 }
 
 .wrapper a:hover {
-    margin: 5px 20px;
     font-size: x-large;
     font-weight: bold;
 }
@@ -40,15 +40,12 @@ footer {
     border-radius: 10px;
 }
 
-h3 span {
-    color: #46ff9b;
-}
-
 ul {
     list-style: none;
     display: flex;
     column-gap: 10px;
     padding-left: 0px;
+    justify-content: center;
 }
 
 ul li a {
