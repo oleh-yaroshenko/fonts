@@ -66,3 +66,111 @@ ul li a:hover {
 .selected a {
     font-weight: bold;
 }
+
+.american_typewriter {
+    font-family: "American Typewriter";
+}
+
+.arial_rounded {
+    font-family: "Arial Rounded MT Bold";
+}
+
+.arial {
+    font-family: "Arial";
+}
+
+.avenir {
+    font-family: "Avenir";
+}
+
+.baskerville {
+    font-family: "Baskerville";
+}
+
+.bodoni {
+    font-family: "Bodoni";
+}
+
+.calibri {
+    /* not found 1 */
+}
+
+.cochin {
+    font-family: "Cochin";
+}
+
+.comic_sans {
+    /* not found 2 */
+}
+
+.copperplate {
+    font-family: "Copperplate";
+}
+
+.courier {
+    font-family: "Courier New";
+}
+
+.didot {
+    font-family: "Didot";
+}
+
+.franklin_gothic {
+    /* not found 3 */
+}
+
+.frutiger {
+    /* not found 4 */
+}
+
+.futura {
+    font-family: "Futura";
+}
+
+.garamond {
+    /* not found 5 */
+}
+
+.georgia {
+    font-family: "Georgia";
+}
+
+.gill_sans {
+    font-family: "Gill Sans";
+}
+
+.gotham {
+    /* not found 6 */
+}
+
+.helvetica {
+    font-family: "Helvetica";
+}
+
+.impact {
+    font-family: "Impact";
+}
+
+.new_york {
+    /* not found 7 */
+}
+
+.palatino {
+    font-family: "Palatino";
+}
+
+.rockwell {
+    font-family: "Rockwell";
+}
+
+.sf_mono {
+    /* not found 8 */
+}
+
+.times {
+    font-family: "Times New Roman";
+}
+
+.verdana {
+    font-family: "Verdana";
+}
