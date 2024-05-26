@@ -31,7 +31,7 @@ body {
 
 .wrapper a:hover {
     font-size: x-large;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 footer {
