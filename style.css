@@ -7,6 +7,76 @@ body {
     background-color:rgb(200, 200, 200);
 }
 
+@font-face {
+    font-family: "Calibri";
+    src: url("https://db.onlinewebfonts.com/t/a78cfad3beb089a6ce86d4e280fa270b.eot");
+    src: url("https://db.onlinewebfonts.com/t/a78cfad3beb089a6ce86d4e280fa270b.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/a78cfad3beb089a6ce86d4e280fa270b.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/a78cfad3beb089a6ce86d4e280fa270b.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/a78cfad3beb089a6ce86d4e280fa270b.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/a78cfad3beb089a6ce86d4e280fa270b.svg#Calibri")format("svg");
+}
+
+@font-face {
+    font-family: "Comic Sans";
+    src: url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.eot");
+    src: url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.svg#Comic Sans MS")format("svg");
+}
+
+@font-face {
+    font-family: "Franklin Gothic";
+    src: url("https://db.onlinewebfonts.com/t/9c9dbb999dd7068f51335d93cc7328bd.eot");
+    src: url("https://db.onlinewebfonts.com/t/9c9dbb999dd7068f51335d93cc7328bd.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/9c9dbb999dd7068f51335d93cc7328bd.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/9c9dbb999dd7068f51335d93cc7328bd.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/9c9dbb999dd7068f51335d93cc7328bd.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/9c9dbb999dd7068f51335d93cc7328bd.svg#Franklin Gothic")format("svg");
+}
+
+@font-face {
+    font-family: "Frutiger";
+    src: url("https://db.onlinewebfonts.com/t/0c453315c27507762e6b9536cfea76a6.eot");
+    src: url("https://db.onlinewebfonts.com/t/0c453315c27507762e6b9536cfea76a6.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/0c453315c27507762e6b9536cfea76a6.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/0c453315c27507762e6b9536cfea76a6.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/0c453315c27507762e6b9536cfea76a6.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/0c453315c27507762e6b9536cfea76a6.svg#Frutiger")format("svg");
+}
+
+@font-face {
+    font-family: "Garamond";
+    src: url("https://db.onlinewebfonts.com/t/2bf40ab72ea4897a3fd9b6e48b233a19.eot");
+    src: url("https://db.onlinewebfonts.com/t/2bf40ab72ea4897a3fd9b6e48b233a19.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/2bf40ab72ea4897a3fd9b6e48b233a19.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/2bf40ab72ea4897a3fd9b6e48b233a19.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/2bf40ab72ea4897a3fd9b6e48b233a19.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/2bf40ab72ea4897a3fd9b6e48b233a19.svg#Garamond")format("svg");
+}
+
+@font-face {
+    font-family: "Gotham";
+    src: url("https://db.onlinewebfonts.com/t/0ff8990774ec4865c7f45befbafd4910.eot");
+    src: url("https://db.onlinewebfonts.com/t/0ff8990774ec4865c7f45befbafd4910.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/0ff8990774ec4865c7f45befbafd4910.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/0ff8990774ec4865c7f45befbafd4910.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/0ff8990774ec4865c7f45befbafd4910.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/0ff8990774ec4865c7f45befbafd4910.svg#Gotham Regular")format("svg");
+}
+
+@font-face {
+    font-family: "SF Mono";
+    src: url("https://db.onlinewebfonts.com/t/c8da3c58be0ab862c24357279216fe05.eot");
+    src: url("https://db.onlinewebfonts.com/t/c8da3c58be0ab862c24357279216fe05.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/c8da3c58be0ab862c24357279216fe05.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/c8da3c58be0ab862c24357279216fe05.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/c8da3c58be0ab862c24357279216fe05.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/c8da3c58be0ab862c24357279216fe05.svg#SF Mono Regular")format("svg");
+}
+
 ::selection {
     background-color: black;
     color: #46ff9b;
@@ -92,7 +162,7 @@ ul li a:hover {
 }
 
 .calibri {
-    /* not found 1 */
+    font-family: "Calibri";
 }
 
 .cochin {
@@ -100,7 +170,7 @@ ul li a:hover {
 }
 
 .comic_sans {
-    /* not found 2 */
+    font-family: "Comic Sans";
 }
 
 .copperplate {
@@ -116,11 +186,11 @@ ul li a:hover {
 }
 
 .franklin_gothic {
-    /* not found 3 */
+    font-family: "Franklin Gothic";
 }
 
 .frutiger {
-    /* not found 4 */
+    font-family: "Frutiger";
 }
 
 .futura {
@@ -128,7 +198,7 @@ ul li a:hover {
 }
 
 .garamond {
-    /* not found 5 */
+    font-family: "Garamond";
 }
 
 .georgia {
@@ -140,7 +210,7 @@ ul li a:hover {
 }
 
 .gotham {
-    /* not found 6 */
+    font-family: "Gotham";
 }
 
 .helvetica {
@@ -149,10 +219,6 @@ ul li a:hover {
 
 .impact {
     font-family: "Impact";
-}
-
-.new_york {
-    /* not found 7 */
 }
 
 .palatino {
@@ -164,7 +230,7 @@ ul li a:hover {
 }
 
 .sf_mono {
-    /* not found 8 */
+    font-family: "SF Mono";
 }
 
 .times {
